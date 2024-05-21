@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayan\\Desktop\\ASP.NET Core 6 Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj": {}
+    "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\Desktop\\ASP.NET-Core-6-Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayan\\Desktop\\ASP.NET Core 6 Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj": {
+    "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\Desktop\\ASP.NET-Core-6-Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayan\\Desktop\\ASP.NET Core 6 Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj",
+        "projectUniqueName": "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\Desktop\\ASP.NET-Core-6-Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj",
         "projectName": "ActionMethods",
-        "projectPath": "C:\\Users\\mayan\\Desktop\\ASP.NET Core 6 Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj",
-        "packagesPath": "C:\\Users\\mayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayan\\Desktop\\ASP.NET Core 6 Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\obj\\",
+        "projectPath": "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\Desktop\\ASP.NET-Core-6-Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\ActionMethods.csproj",
+        "packagesPath": "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\Desktop\\ASP.NET-Core-6-Tutorial\\Lecture no 13 ( Action Methods )\\ActionMethods\\ActionMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mayank Pal.DESKTOP-269SF66.004\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
