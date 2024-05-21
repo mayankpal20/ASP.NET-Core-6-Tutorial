@@ -13,5 +13,16 @@ namespace ActionMethods.Controllers
         {
             return "AA gaya Swad";
         }
+
+        //For Partial Layout
+        public ActionResult Contact()
+        {
+            return View();
+        }
+
+        public ActionResult Address()
+        {
+            return View();
+        }
     }
 }
