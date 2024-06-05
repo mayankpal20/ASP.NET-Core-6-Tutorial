@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lecture no 17 ( ViewData ).props" />
+</Project>

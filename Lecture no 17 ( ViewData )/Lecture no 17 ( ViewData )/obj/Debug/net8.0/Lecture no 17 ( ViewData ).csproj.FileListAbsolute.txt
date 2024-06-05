@@ -1,0 +1,31 @@
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\appsettings.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).staticwebassets.runtime.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).exe
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).deps.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).runtimeconfig.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\bin\Debug\net8.0\Lecture no 17 ( ViewData ).pdb
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).RazorAssemblyInfo.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).RazorAssemblyInfo.cs
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).sourcelink.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets\msbuild.Lecture no 17 ( ViewData ).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets\msbuild.build.Lecture no 17 ( ViewData ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lecture no 17 ( ViewData ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lecture no 17 ( ViewData ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\scopedcss\bundle\Lecture no 17 ( ViewData ).styles.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\scopedcss\projectbundle\Lecture no 17 ( ViewData ).bundle.scp.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\refint\Lecture no 17 ( ViewData ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).pdb
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\Lecture no 17 ( ViewData ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 17 ( ViewData )\Lecture no 17 ( ViewData )\obj\Debug\net8.0\ref\Lecture no 17 ( ViewData ).dll

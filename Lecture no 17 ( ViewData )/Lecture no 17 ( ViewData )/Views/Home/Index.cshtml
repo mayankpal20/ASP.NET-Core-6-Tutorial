@@ -1,0 +1,20 @@
+﻿
+
+<h1>View Data</h1>
+
+@*Accessing ViewData*@
+@ViewData["kuchbhi"]
+<br />
+
+@ViewData["kuchbhi1"]
+<br />
+
+@ViewData["kuchbhi2"]
+
+
+@{
+    foreach (var item in (string[])ViewData["kuchbhi3"])
+    {
+        <h2>@item</h2>
+    }
+}
