@@ -1,0 +1,31 @@
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\appsettings.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).staticwebassets.runtime.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).exe
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).deps.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).runtimeconfig.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\bin\Debug\net8.0\Lecture no 18 ( ViewBag ).pdb
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).RazorAssemblyInfo.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).RazorAssemblyInfo.cs
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).sourcelink.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets\msbuild.Lecture no 18 ( ViewBag ).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets\msbuild.build.Lecture no 18 ( ViewBag ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lecture no 18 ( ViewBag ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lecture no 18 ( ViewBag ).props
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\scopedcss\bundle\Lecture no 18 ( ViewBag ).styles.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\scopedcss\projectbundle\Lecture no 18 ( ViewBag ).bundle.scp.css
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\refint\Lecture no 18 ( ViewBag ).dll
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).pdb
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\Lecture no 18 ( ViewBag ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 18 ( ViewBag )\Lecture no 18 ( ViewBag )\obj\Debug\net8.0\ref\Lecture no 18 ( ViewBag ).dll
