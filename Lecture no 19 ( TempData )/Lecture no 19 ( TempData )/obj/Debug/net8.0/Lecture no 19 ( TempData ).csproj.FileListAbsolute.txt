@@ -1,0 +1,31 @@
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\appsettings.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).staticwebassets.runtime.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).exe
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).deps.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).runtimeconfig.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\bin\Debug\net8.0\Lecture no 19 ( TempData ).pdb
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).AssemblyInfoInputs.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).AssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).RazorAssemblyInfo.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).RazorAssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).sourcelink.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets\msbuild.Lecture no 19 ( TempData ).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets\msbuild.build.Lecture no 19 ( TempData ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lecture no 19 ( TempData ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lecture no 19 ( TempData ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\scopedcss\bundle\Lecture no 19 ( TempData ).styles.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\scopedcss\projectbundle\Lecture no 19 ( TempData ).bundle.scp.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\refint\Lecture no 19 ( TempData ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).pdb
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\Lecture no 19 ( TempData ).genruntimeconfig.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 19 ( TempData )\Lecture no 19 ( TempData )\obj\Debug\net8.0\ref\Lecture no 19 ( TempData ).dll

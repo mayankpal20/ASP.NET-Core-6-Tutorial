@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}   
+<h3>@TempData["key2"]</h3>
+<br />
+@{
+    foreach (var data in (List<string>)TempData["key3"])
+    {
+        <h1>@data</h1>
+    }
+}
