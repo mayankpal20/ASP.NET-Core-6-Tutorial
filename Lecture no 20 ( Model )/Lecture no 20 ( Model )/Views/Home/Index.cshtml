@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var studentdata = ViewData["mystudents"] as List<StudentModel>;
+}
+
+@{
+    foreach(var data in studentdata)
+    {
+        <h1>@data.Rollno : @data.Name : @data.Gender </h1>
+        
+
+    }
+}

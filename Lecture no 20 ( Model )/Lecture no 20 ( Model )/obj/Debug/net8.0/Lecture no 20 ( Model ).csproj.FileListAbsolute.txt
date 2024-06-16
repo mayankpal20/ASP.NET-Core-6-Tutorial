@@ -1,0 +1,31 @@
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).AssemblyInfoInputs.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).AssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).RazorAssemblyInfo.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).RazorAssemblyInfo.cs
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).sourcelink.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\appsettings.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).staticwebassets.runtime.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).exe
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).deps.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).runtimeconfig.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\bin\Debug\net8.0\Lecture no 20 ( Model ).pdb
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets\msbuild.Lecture no 20 ( Model ).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets\msbuild.build.Lecture no 20 ( Model ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lecture no 20 ( Model ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lecture no 20 ( Model ).props
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\scopedcss\bundle\Lecture no 20 ( Model ).styles.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\scopedcss\projectbundle\Lecture no 20 ( Model ).bundle.scp.css
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\refint\Lecture no 20 ( Model ).dll
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).pdb
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\Lecture no 20 ( Model ).genruntimeconfig.cache
+C:\Users\mayan\OneDrive\Desktop\ASP.NET-Core-6-Tutorial\Lecture no 20 ( Model )\Lecture no 20 ( Model )\obj\Debug\net8.0\ref\Lecture no 20 ( Model ).dll

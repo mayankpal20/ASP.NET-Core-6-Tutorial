@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lecture no 20 ( Model ).props" />
+</Project>
